@@ -25,6 +25,13 @@
     "cross-env": "^5.0.5",
     "css-loader": "^0.28.7",
     "file-loader": "^1.1.4",
+<<<<<<< HEAD
+=======
+    "pug": "^2.0.4",
+    "pug-loader": "^2.4.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+>>>>>>> Se realizo un request con promesas y se configuro para que salieran los nombres desde el servidor web en este caso fmmusic
     "vue-loader": "^13.0.5",
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
